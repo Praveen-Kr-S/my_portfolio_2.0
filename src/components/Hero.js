@@ -17,7 +17,7 @@ const Hero = () => {
 
         <div className='w-full md:w-9/12 lg:w-8/12 flex items-center md:items-start md:mt-20 lg:mt-32 flex-col xl:pl-32'>
 
-            <h1 className='text-white text-4xl sm:text-5xl md:text-4xl lg:text-6xl font-bold font-hero-font'>Hi, <br /> Im 
+            <h1 className='text-white text-3xl sm:text-4xl md:text-4xl lg:text-6xl font-bold font-hero-font'>Hi, <br /> Im 
                 <span className='text-black'> Praveen Kumar</span>
                 <p className='text-2xl md:text-3xl text-white font-semibold'>{config.subtitile}</p>
             </h1>
