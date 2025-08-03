@@ -14,7 +14,7 @@ const Projects = () => {
             {
                 image : websiteImg2,
                 description : "Food Ecommerce Website. Built with React Bootstrap Components",
-                link : "https://phenomenal-trifle-f84dfd.netlify.app/"
+                link : "https://fire-pizza-plus.netlify.app/"
             },
             {
                 image : websiteImg3,
