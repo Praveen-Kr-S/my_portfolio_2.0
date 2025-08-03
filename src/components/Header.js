@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className='flex justify-between px-5 py-2.5 md:py-4 w-full bg-primary fixed top-0 z-10'>
 
-        <a className='font-bold text-white md:text-2xl hover:text-black' href="#">S.PRAVEEN KUMAR</a>
+        <a className='font-bold text-white md:text-2xl hover:text-black' href="#">PRAVEEN KUMAR SARAVANAN</a>
         {/* above medium device nav bar */}
         <nav className='hidden md:block'>
             <ul className='flex text-white'>
