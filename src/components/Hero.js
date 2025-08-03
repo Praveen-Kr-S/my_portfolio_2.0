@@ -6,7 +6,7 @@ import { AiOutlineLinkedin, AiOutlineInstagram, AiOutlineGithub } from "react-ic
 const Hero = () => {
 
   const config = {
-    subtitile : 'Im Frontend Developer',
+    subtitile : 'Im Fullstack Developer',
     linkedIn : 'https://www.linkedin.com/in/praveen-kumar-s-frontend-developer/',
     instagram : 'https://www.instagram.com/praveenkrs_in/',
     github : 'https://github.com/Praveen-Kr-S',
