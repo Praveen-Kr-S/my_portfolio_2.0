@@ -8,7 +8,7 @@ const Hero = () => {
   const config = {
     subtitile : 'Im Frontend Developer',
     linkedIn : 'https://www.linkedin.com/in/praveen-kumar-s-frontend-developer/',
-    instagram : 'https://www.instagram.com/praveenkumar.s.tn/?hl=en',
+    instagram : 'https://www.instagram.com/praveenkrs_in/',
     github : 'https://github.com/Praveen-Kr-S',
   }
 
