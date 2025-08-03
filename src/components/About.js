@@ -6,7 +6,7 @@ const About = () => {
   const config = {
     line1 : 'Hi, My name Praveen Kumar. I am a Fullstack Developer. I built Beatiful Websites with React.js and Tailwind CSS + Bootstrap',
     line2 : 'I am proficient in Frontend skills like React.js, JavaScript, Redux ToolKit,  Fetch & Axios and many more',
-    line3 : 'In backend I know Node.js, Express.js, Python, MySQL, MongoDB & Mongoose'
+    line3 : 'In backend I know Node.js, Express.js, Python, Django with Rest API, Java, MySQL, MongoDB & Mongoose'
   }
 
   return (
