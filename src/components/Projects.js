@@ -9,7 +9,7 @@ const Projects = () => {
             {
                 image : websiteImg1,
                 description : "A Ecomerce Website. Built with MERN Stack",
-                link : "https://github.com/Praveen-Kr-S/minicart"
+                link : "https://minicart-gamma.vercel.app/"
             },
             {
                 image : websiteImg2,
